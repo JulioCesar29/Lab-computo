@@ -1,0 +1,31 @@
+.index{
+	background: linear-gradient(#BFF098,#6FD6FF);
+    background-size: cover;
+    padding: 90%;
+	font-family: Tahoma;
+    font-family: inherit;
+	border-radius: 20px;
+	padding: 2%;
+	text-align: center;
+	image-rendering: auto;
+	background-attachment: fixed;
+}
+.botones{
+	padding-top: 15px;
+    background: linear-gradient(#BFF098,#6FD6FF);
+    background-size: cover;
+	font-family: Monaco;
+	border-style: none;
+	padding: 9.5%;
+	text-align: center;
+	image-rendering: auto;
+	background-attachment: fixed;
+
+}
+.fondo{
+    background: linear-gradient(#BFF098,#6FD6FF);
+   
+}
+.separador{
+	height: 10px;
+}
